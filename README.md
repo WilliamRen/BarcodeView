@@ -12,8 +12,7 @@ This module will continue to grow and new options will be added in the near futu
 Include the module in your tiapp.xml:
 
 <pre><code>
-<module platform="iphone">com.mfogg.barcode</module>
-
+com.mfogg.barcode
 </code></pre>
 
 <h2>Usage</h2>
